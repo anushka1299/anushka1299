@@ -1,4 +1,4 @@
-#👋 Hi, I'm Anushka Shrivastava
+<h1 align="center">👋 Hi, I'm Anushka Shrivastava</h1>
 
 📊 Data Analyst | SQL • Python • BI Tools
 
