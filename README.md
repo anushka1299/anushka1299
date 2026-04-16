@@ -1,4 +1,4 @@
-👋 Hi, I'm Anushka
+#👋 Hi, I'm Anushka Shrivastava
 
 📊 Data Analyst | SQL • Python • BI Tools
 
