@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Anushka
 
-<!--
-**anushka1299/anushka1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | SQL • Python • BI Tools
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data analyst focused on user behavior, campaign performance, and engagement analytics.
+I turn raw data into actionable insights for business decisions.
+
+🛠️ Tech Stack
+Languages: SQL, Python (Pandas, Matplotlib)
+Tools: Power BI, Looker Studio, Google Analytics, Tag Manager
+Skills: EDA, KPI Tracking, Cohort & Funnel Analysis, Data Visualization
