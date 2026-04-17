@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anushka 👋</h1>
 
 <p align="center">
-  Data Analyst · Power BI · SQL · Python · Gurugram, India
+  Data Analyst · Power BI · SQL · Python · Gurugram, India.
 </p>
 
 <p align="center">
