@@ -31,6 +31,4 @@ My projects range from **20 years of Indian election data** to **customer churn 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
-</p>
+
